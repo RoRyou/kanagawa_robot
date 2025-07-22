@@ -1,0 +1,8 @@
+pandas
+google-api-python-client
+requests
+beautifulsoup4
+markdownify
+pdfplumber
+openai          # AzureOpenAI を使うため 1.2.0 以上推奨
+tqdm
